@@ -1,11 +1,11 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "../style/Navbar.css";
 
 const Navbar = () => {
   return (
     <nav className="current-tab-highlight navbar navbar-expand-lg navbar-dark bg-dark">
-      <a className="navbar-brand" href="">
+      <a className="navbar-brand" href="Home">
         tindog
       </a>
       <button
