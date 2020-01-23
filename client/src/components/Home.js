@@ -19,6 +19,11 @@ const Home =() => {
         </div>
         <Features />
         <Testamonials />
+        <section id="cta">
+            <h3>Find the True Love of Your Dog's Life Today.</h3>
+            <button type="button">Download</button>
+            <button type="button">Download</button>
+        </section>
         <p>© Copyright 2018 TinDog</p>
     </div>
     )
