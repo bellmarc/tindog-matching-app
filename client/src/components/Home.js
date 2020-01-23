@@ -19,6 +19,7 @@ const Home =() => {
         </div>
         <Features />
         <Testamonials />
+        <p>© Copyright 2018 TinDog</p>
     </div>
     )
 }
