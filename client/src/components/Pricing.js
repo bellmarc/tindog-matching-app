@@ -16,7 +16,7 @@ const Pricing = () => {
             <button type="button">Sign Up</button>
 
 
-            <h3>Labrador</h3>
+            <h3>Husky</h3>
             <h2>$49 / mo</h2>
             <p>Unlimited Matches</p>
             <p>Unlimited Messages</p>
@@ -24,9 +24,9 @@ const Pricing = () => {
             <button type="button">Sign Up</button>
 
 
-            <h3>Mastiff</h3>
+            <h3>Great Dane</h3>
             <h2>$99 / mo</h2>
-            <p>Pirority Listing</p>
+            <p>Priority Listing</p>
             <p>Unlimited Matches</p>
             <p>Unlimited Messages</p>
             <p>Unlimited App Usage</p>
