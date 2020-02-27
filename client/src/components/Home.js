@@ -1,7 +1,7 @@
 import React from 'react';
 import '../style/Home.css';
 import Features from '../components/Features';
-import Testamonials from '../components/Testamonials';
+import Testamonials from './Testimonials';
 import iphoneDog from "../assets/iphone6.png";
 
 
