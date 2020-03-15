@@ -1,3 +1,5 @@
 .testimonials {
-    height: 200px;
+  height: 200px;
+  background-color: grey;
+  border: 1px solid red;
 }
