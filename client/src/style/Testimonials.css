@@ -1,5 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,900;1,400&display=swap");
+
 .testimonials {
   height: 200px;
   background-color: grey;
   border: 1px solid red;
+}
+#quote {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-style: oblique;
 }
